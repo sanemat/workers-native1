@@ -1,0 +1,20 @@
+{
+  "name": "workers-native1",
+  "description": "",
+  "version": "0.1.0",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sanemat/workers-native1/issues"
+  },
+  "homepage": "https://github.com/sanemat/workers-native1#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sanemat/workers-native1.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
